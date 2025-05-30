@@ -71,7 +71,7 @@ Date of next meeting: To be discussed.
 
 ------------------------------------------------------------------------
 
-<h3>Stakeholder Register</h3>
+<h2>Stakeholder Register</h2>
 
 
 **Stakeholder 1**
