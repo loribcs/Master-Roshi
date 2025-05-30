@@ -24,8 +24,7 @@
 **2.**	Development of stakeholder personas
 
 **3.**	Review and dissection of personas
-
-
+-----------------------
 **Agenda One**
 
 Presenter: Lorien Gugich
@@ -45,8 +44,7 @@ Action Items:
 Person(s) Responsible: Everyone; collaborative.
 
 Deadline: February 25th
-
-
+-----------------------
 **Agenda Two**
 
 Presenter: Althea Lagudas
@@ -91,8 +89,7 @@ Interest: High
 Requirements: Develop a functioning system to hoist the project
 
 Communication: Day to day contact with team as needed
-
-
+-----------------------
 **Stakeholder 2**
 
 Name: Althea Lagudas
@@ -108,8 +105,7 @@ Interest: High
 Requirements: Design an appealing UI
 
 Communication: Day to day contact with team as needed
-
-
+-----------------------
 **Stakeholder 3**
 
 Name: Lorien Gugich
@@ -125,8 +121,7 @@ Interest: High
 Requirements: Ensure project requirements are being met. Oversee communication between departments and make high-stakes decisions
 
 Communication: Fortnightly emails and meetings
-
-
+-----------------------
 **Stakeholder 4**
 
 Name: Mr. CEO
@@ -202,10 +197,7 @@ His son is very picky and loses interest in games very easily. It is difficult t
 Persona Photo: Jarvis Eddison Character, Stardew Valley - ConcernedApe
 
 Quotation: Sylvia Plath
-
 -----------------------
-
-
 **Persona 2: Lucinda Murphy**
 
 
@@ -259,11 +251,7 @@ Due to full time study and part time work, Lucinda doesn’t have a lot of time 
 Persona Photo: Coffee Date
 
 Quotation: Michael Lebeouf
-
-
 -----------------------
-
-
 **Persona 3: Cedric Shanzel**
 
 
@@ -407,8 +395,7 @@ Personal Reflection: She hopes that the group can communicate better moving forw
 **2.**	Create a resource requirements list
 
 **3.**	Test and review GitHub progress and tools
-
-
+-----------------------
 **Agenda One**
 
 Presenter: Chloe Cawood
@@ -428,9 +415,7 @@ Action Items:
 Person(s) Responsible: Everyone; collaborative.
 
 Deadline: April 29th
-
 -----------------------
-
 **Agenda Two**
 
 Presenter: Althea Lagudas
@@ -450,9 +435,7 @@ Action Items:
 Person(s) Responsible: Everyone; collaborative.
 
 Deadline: April 29th
-
 -----------------------
-
 **Agenda Three**
 
 Presenter: Lorien Gugich
@@ -563,8 +546,7 @@ Lorien's contribution toward this iteration was sufficient. She was more proacti
 **2.**	
 
 **3.**	
-
-
+-----------------------
 **Agenda One**
 
 Presenter: Chloe Cawood
@@ -584,9 +566,7 @@ Action Items:
 Person(s) Responsible: Everyone; collaborative.
 
 Deadline: 
-
 -----------------------
-
 **Agenda Two**
 
 Presenter: Althea Lagudas
@@ -606,9 +586,7 @@ Action Items:
 Person(s) Responsible: Everyone; collaborative.
 
 Deadline: 
-
 -----------------------
-
 **Agenda Three**
 
 Presenter: Lorien Gugich
