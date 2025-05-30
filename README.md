@@ -6,6 +6,7 @@
 
 
 <h3>Meeting Minutes Report</h3>
+-----------------------
 
 
 **Sponsor:** Noor Alani
@@ -24,8 +25,10 @@
 **2.**	Development of stakeholder personas
 
 **3.**	Review and dissection of personas
------------------------
+
+
 **Agenda One**
+-----------------------
 
 Presenter: Lorien Gugich
 
@@ -44,8 +47,10 @@ Action Items:
 Person(s) Responsible: Everyone; collaborative.
 
 Deadline: February 25th
------------------------
+
+
 **Agenda Two**
+-----------------------
 
 Presenter: Althea Lagudas
 
@@ -75,6 +80,7 @@ Date of next meeting: To be discussed.
 
 
 **Stakeholder 1**
+-----------------------
 
 Name: Chloe Cawood
 
@@ -89,8 +95,10 @@ Interest: High
 Requirements: Develop a functioning system to hoist the project
 
 Communication: Day to day contact with team as needed
------------------------
+
+
 **Stakeholder 2**
+-----------------------
 
 Name: Althea Lagudas
 
@@ -105,8 +113,9 @@ Interest: High
 Requirements: Design an appealing UI
 
 Communication: Day to day contact with team as needed
------------------------
+
 **Stakeholder 3**
+-----------------------
 
 Name: Lorien Gugich
 
@@ -121,8 +130,9 @@ Interest: High
 Requirements: Ensure project requirements are being met. Oversee communication between departments and make high-stakes decisions
 
 Communication: Fortnightly emails and meetings
------------------------
+
 **Stakeholder 4**
+-----------------------
 
 Name: Mr. CEO
 
@@ -145,6 +155,7 @@ Communication: Fortnightly meetings face to face
 
 
 **Persona 1: Jarvis Eddison**
+-----------------------
 
 
 **Quotation**
@@ -197,8 +208,10 @@ His son is very picky and loses interest in games very easily. It is difficult t
 Persona Photo: Jarvis Eddison Character, Stardew Valley - ConcernedApe
 
 Quotation: Sylvia Plath
------------------------
+
+
 **Persona 2: Lucinda Murphy**
+-----------------------
 
 
 **Quotation**
@@ -251,8 +264,10 @@ Due to full time study and part time work, Lucinda doesn’t have a lot of time 
 Persona Photo: Coffee Date
 
 Quotation: Michael Lebeouf
------------------------
+
+
 **Persona 3: Cedric Shanzel**
+-----------------------
 
 
 **Quotation**
@@ -300,7 +315,7 @@ Missing out on early access rewards and getting spoilers on social media.
 Not being able to keep up to date with multiple games.
 
 
-Sources of Information
+**Sources of Information**
 
 Persona Photo: Rasputin Character, Just Dance - Ubisoft
 
@@ -314,6 +329,7 @@ Quotation: Orison Swett Marden
 
 
 **Persona 1: Jarvis Eddison**
+-----------------------
 
 
 Jarvis Eddison is a Sales Representative who is motivated to build a stronger connection with his son through video games as it is an interest many kids have in today’s world. While he enjoys games himself, he is unsure which ones would be suitable for his son and how to find games they can play together. If we implement a subscription service on our video game website, he would have access to a wide variety of games to try with his son.
@@ -326,6 +342,7 @@ Since his son tends to be picky and loses interest in games quickly, a rating an
 
 
 **Persona 2: Lucinda Murphy**
+-----------------------
 
 
 Lucinda Murphy is a full-time student who works part-time as a barista and enjoys playing cozy video games. Due to her minimal student allowance, she must be careful with her spending, which means she can't purchase games as often. She also tends to buy games only to later realize they aren't satisfactory, leading her to ask for a refund. A subscription service would give her access to countless games, removing the financial stress of purchasing each one individually. Additionally, we could offer a first-time user discount, giving her the opportunity to see if the website is something she wants to invest in regularly. Seasonal or holiday discounts could also help alleviate her financial strain.
@@ -335,6 +352,7 @@ Murphy often loses interest in games with long completion times, so a filter sys
 
 
 **Persona 3: Cedric Shanzel**
+-----------------------
 
 
 Cedric Shanzel is in an interesting position where his passion for dance and desire to stay in
@@ -395,8 +413,9 @@ Personal Reflection: She hopes that the group can communicate better moving forw
 **2.**	Create a resource requirements list
 
 **3.**	Test and review GitHub progress and tools
------------------------
+
 **Agenda One**
+-----------------------
 
 Presenter: Chloe Cawood
 
@@ -415,8 +434,9 @@ Action Items:
 Person(s) Responsible: Everyone; collaborative.
 
 Deadline: April 29th
------------------------
+
 **Agenda Two**
+-----------------------
 
 Presenter: Althea Lagudas
 
@@ -435,8 +455,9 @@ Action Items:
 Person(s) Responsible: Everyone; collaborative.
 
 Deadline: April 29th
------------------------
+
 **Agenda Three**
+-----------------------
 
 Presenter: Lorien Gugich
 
@@ -529,6 +550,7 @@ Lorien's contribution toward this iteration was sufficient. She was more proacti
 
 
 <h3>Meeting Report</h3>
+-----------------------
 
 
 **Sponsor:** Noor Alani
@@ -546,8 +568,9 @@ Lorien's contribution toward this iteration was sufficient. She was more proacti
 **2.**	
 
 **3.**	
------------------------
+
 **Agenda One**
+-----------------------
 
 Presenter: Chloe Cawood
 
@@ -566,8 +589,9 @@ Action Items:
 Person(s) Responsible: Everyone; collaborative.
 
 Deadline: 
------------------------
+
 **Agenda Two**
+-----------------------
 
 Presenter: Althea Lagudas
 
@@ -586,9 +610,9 @@ Action Items:
 Person(s) Responsible: Everyone; collaborative.
 
 Deadline: 
------------------------
-**Agenda Three**
 
+**Agenda Three**
+-----------------------
 Presenter: Lorien Gugich
 
 Discussion: 
