@@ -504,8 +504,8 @@ Date of next meeting: To be discussed.
 
 <h2>Gantt Chart</h2>
 
+[Master Roshi "Notion" Task Board](https://www.notion.so/1b99bc6c9b9f800185a5c307eaff468b?v=1b99bc6c9b9f80d5aa82000cfec3e8c1&pvs=4)
 
-![Gantt Chart](https://www.notion.so/1b99bc6c9b9f800185a5c307eaff468b?v=1b99bc6c9b9f80d5aa82000cfec3e8c1&pvs=4)
 
 ---------------------------------------------------------------------------
 
