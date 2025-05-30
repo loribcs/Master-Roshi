@@ -23,7 +23,6 @@
 
 
 **Agenda One**
------------------------
 
 Presenter: Lorien Gugich
 
@@ -45,7 +44,6 @@ Deadline: February 25th
 
 
 **Agenda Two**
------------------------
 
 Presenter: Althea Lagudas
 
@@ -53,7 +51,7 @@ Discussion: Create three potential clients on your e-commerce website. Ensure th
 
 Conclusion: While completed individually, communication was maintained to ensure each persona was unique. Ideas were shared and built upon to successfully complete the task without issue.
 
-Action Items:
+**Action Items:**
 
 •	Brainstorm unique backgrounds and obstacles.
 
@@ -75,7 +73,6 @@ Date of next meeting: To be discussed.
 
 
 **Stakeholder 1**
------------------------
 
 Name: Chloe Cawood
 
@@ -93,7 +90,6 @@ Communication: Day to day contact with team as needed
 
 
 **Stakeholder 2**
------------------------
 
 Name: Althea Lagudas
 
@@ -109,8 +105,8 @@ Requirements: Design an appealing UI
 
 Communication: Day to day contact with team as needed
 
+
 **Stakeholder 3**
------------------------
 
 Name: Lorien Gugich
 
@@ -126,8 +122,8 @@ Requirements: Ensure project requirements are being met. Oversee communication b
 
 Communication: Fortnightly emails and meetings
 
+
 **Stakeholder 4**
------------------------
 
 Name: Mr. CEO
 
@@ -146,11 +142,10 @@ Communication: Fortnightly meetings face to face
 
 ------------------------------------------------------------------------
 
-<h3>Persona Profiles</h3>
+<h2>Persona Profiles</h2>
 
 
 **Persona 1: Jarvis Eddison**
------------------------
 
 
 **Quotation**
@@ -206,7 +201,6 @@ Quotation: Sylvia Plath
 
 
 **Persona 2: Lucinda Murphy**
------------------------
 
 
 **Quotation**
@@ -262,7 +256,6 @@ Quotation: Michael Lebeouf
 
 
 **Persona 3: Cedric Shanzel**
------------------------
 
 
 **Quotation**
@@ -320,11 +313,10 @@ Quotation: Orison Swett Marden
 ------------------------------------------------------------------------
 
 
-<h3>Persona Dissection</h3>
+<h2>Persona Dissection</h2>
 
 
 **Persona 1: Jarvis Eddison**
------------------------
 
 
 Jarvis Eddison is a Sales Representative who is motivated to build a stronger connection with his son through video games as it is an interest many kids have in today’s world. While he enjoys games himself, he is unsure which ones would be suitable for his son and how to find games they can play together. If we implement a subscription service on our video game website, he would have access to a wide variety of games to try with his son.
@@ -337,7 +329,6 @@ Since his son tends to be picky and loses interest in games quickly, a rating an
 
 
 **Persona 2: Lucinda Murphy**
------------------------
 
 
 Lucinda Murphy is a full-time student who works part-time as a barista and enjoys playing cozy video games. Due to her minimal student allowance, she must be careful with her spending, which means she can't purchase games as often. She also tends to buy games only to later realize they aren't satisfactory, leading her to ask for a refund. A subscription service would give her access to countless games, removing the financial stress of purchasing each one individually. Additionally, we could offer a first-time user discount, giving her the opportunity to see if the website is something she wants to invest in regularly. Seasonal or holiday discounts could also help alleviate her financial strain.
@@ -347,7 +338,6 @@ Murphy often loses interest in games with long completion times, so a filter sys
 
 
 **Persona 3: Cedric Shanzel**
------------------------
 
 
 Cedric Shanzel is in an interesting position where his passion for dance and desire to stay in
@@ -357,7 +347,7 @@ shape can co-exist and go as far as to intertwine with his love of gaming. This 
 ------------------------------------------------------------------------
 
 
-<h3>Iteration 1 Progress Report</h3>
+<h2>Iteration 1 Progress Report</h2>
 
 
 **Althea**
@@ -409,8 +399,8 @@ Personal Reflection: She hopes that the group can communicate better moving forw
 
 **3.**	Test and review GitHub progress and tools
 
+
 **Agenda One**
------------------------
 
 Presenter: Chloe Cawood
 
@@ -430,8 +420,8 @@ Person(s) Responsible: Everyone; collaborative.
 
 Deadline: April 29th
 
+
 **Agenda Two**
------------------------
 
 Presenter: Althea Lagudas
 
@@ -451,8 +441,8 @@ Person(s) Responsible: Everyone; collaborative.
 
 Deadline: April 29th
 
+
 **Agenda Three**
------------------------
 
 Presenter: Lorien Gugich
 
@@ -478,7 +468,7 @@ Date of next meeting: To be discussed.
 ------------------------------------------------------------------------
 
 
-<h3>Resource Requirements List</h3>
+<h2>Resource Requirements List</h2>
 
 
 *Resource Name / Description / Costs / Task Code*
@@ -512,7 +502,7 @@ Date of next meeting: To be discussed.
 ---------------------------------------------------------------------------
 
 
-<h3>Gantt Chart</h3>
+<h2>Gantt Chart</h2>
 
 
 ![Gantt Chart](https://www.notion.so/1b99bc6c9b9f800185a5c307eaff468b?v=1b99bc6c9b9f80d5aa82000cfec3e8c1&pvs=4)
@@ -520,7 +510,7 @@ Date of next meeting: To be discussed.
 ---------------------------------------------------------------------------
 
 
-<h3>Iteration 2 Progress Report</h3>
+<h2>Iteration 2 Progress Report</h2>
 
 
 **Chloe Cawood**
@@ -544,10 +534,6 @@ Lorien's contribution toward this iteration was sufficient. She was more proacti
 <h2>Meeting Minutes for Iteration 3 (Held April 29th 2025)</h2>
 
 
-<h3>Meeting Report</h3>
------------------------
-
-
 **Sponsor:** Noor Alani
 
 **Group Name:** Master Roshi
@@ -564,8 +550,8 @@ Lorien's contribution toward this iteration was sufficient. She was more proacti
 
 **3.**	
 
+
 **Agenda One**
------------------------
 
 Presenter: Chloe Cawood
 
@@ -585,8 +571,8 @@ Person(s) Responsible: Everyone; collaborative.
 
 Deadline: 
 
+
 **Agenda Two**
------------------------
 
 Presenter: Althea Lagudas
 
@@ -606,8 +592,9 @@ Person(s) Responsible: Everyone; collaborative.
 
 Deadline: 
 
+
 **Agenda Three**
------------------------
+
 Presenter: Lorien Gugich
 
 Discussion: 
