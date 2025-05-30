@@ -6,24 +6,42 @@
 <h3>Meeting Minutes Report</h3>
 
 **Sponsor:** Noor Alani
+
 **Group Name:** Master Roshi
+
 **Attendees:** Lorien Gugich, Althea Lagudas, Chloe Cawood
+
 **Note Taker:** Chloe Cawood
+
 **Agenda Items:**
+
 **1.**	Completion of the stakeholder register
+
 **2.**	Development of stakeholder personas
+
 **3.**	Review and dissection of personas
 
+
 **Agenda One**
+
 Presenter: Lorien Gugich
+
 Discussion: Review the provided exemplary stakeholder register and create our own, applying the necessary changes to attribute it to the group’s chosen scenario.
+
 Conclusion: Each activity was completed as a collaborative effort, ensuring that everyone understood the context behind each action taken and improved their overall understanding.
+
 Action Items:
+
 •	Identify the respective stakeholders’ titles and roles.
+
 •	Outline the requirements of each stakeholder.
+
 •	Review each stakeholders’ power and interest levels.
+
 Person(s) Responsible: Everyone; collaborative.
+
 Deadline: February 25th
+
 
 **Agenda Two**
 Presenter: Althea Lagudas
