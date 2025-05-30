@@ -152,7 +152,7 @@ Communication: Fortnightly meetings face to face
 **Persona 1: Jarvis Eddison**
 
 
-Quotation
+**Quotation**
 
 "But life is long. And it is the long run that balances the short flare of interest and passion"
 
@@ -172,7 +172,7 @@ Highest Level of Education: High School Diploma NCEA Level 3
 Annual Income: $70,000
 
 
-Goals and Motivations
+**Goals and Motivations**
 
 Develop a stronger bond with his son through playing video games, a common interest of theirs.
 
@@ -181,7 +181,7 @@ Spend his free-time doing something more worthwhile.
 Desire to spend more quality time with his son / make memories / develop a closer bond.
 
 
-Challenges and Obstacles
+**Challenges and Obstacles**
 
 He doesn’t know about any games they can play together. 
 
@@ -192,22 +192,24 @@ Due to the sheer volume of games available, he struggles to find games that matc
 Most pre-existing filter systems are massively limited or very faulty.
 
 
-Frustrations
+**Frustrations**
 
 His son is very picky and loses interest in games very easily. It is difficult to find games that satisfy him enough to play more than once or twice.
 
 
-Sources of Information
+**Sources of Information**
 
 Persona Photo: Jarvis Eddison Character, Stardew Valley - ConcernedApe
 
 Quotation: Sylvia Plath
 
+-----------------------
+
 
 **Persona 2: Lucinda Murphy**
 
 
-Quotation
+**Quotation**
 
 "“Waste your money and you’re only out of money, but waste your time and you’ve lost a part of your life”
 
@@ -227,7 +229,7 @@ Highest Level of Education: Teriary - Currently Studying
 Annual Income: $15,000 NZD 
 
 
-Goals and Motivations
+**Goals and Motivations**
 
 To relax and find ways to unwind outside of study and work hours
 
@@ -236,7 +238,7 @@ Lucinda likes to play digital video games in her spare time.
 She enjoys drinking coffee alongside “cozy” digital video games with bright visuals and cute animations
 
 
-Challenges and Obstacles
+**Challenges and Obstacles**
 
 Invested Interest and Retaining Interest
 
@@ -245,24 +247,27 @@ Lucinda often starts a game, realizes she doesn’t like it, and then asks for a
 Some of the digital video games Lucinda purchases can be too lengthy to finish, making her prone to losing interest, moving onto another game.
 
 
-Money and Time
+**Money and Time**
 
 Due to part time work and a minimal student allowance, Lucinda cannot afford to purchase digital video games regularly and needs to be careful when purchasing.
 
 Due to full time study and part time work, Lucinda doesn’t have a lot of time to sit down and play digital video games as much as she would like.
 
 
-Sources of Information
+**Sources of Information**
 
-Persona Photo: Coffee Date - ????????
+Persona Photo: Coffee Date
 
 Quotation: Michael Lebeouf
+
+
+-----------------------
 
 
 **Persona 3: Cedric Shanzel**
 
 
-Quotation
+**Quotation**
 
 “Work, love and play are the great balance wheels of man's being.”
 
@@ -282,7 +287,7 @@ Highest Level of Education: Bachelor's Degree in Performing Arts
 Annual Income: $65,000 NZD
 
 
-Goals and Motivations
+**Goals and Motivations**
 
 To maintain a high level of physical fitness, staying in top form to inspire his students, while also satisfying his gaming hobby during his downtime.
 
@@ -293,14 +298,14 @@ Keeping up to date with the evolving gaming industry.
 Building connections with different types of people through different platforms (online and in person)
 
 
-Challenges and Obstacles
+**Challenges and Obstacles**
 
 Does not always get notified of new game releases or updates on games he currently plays.
 
 Having trouble tracking the different games he plays as he is a fan of multiple genres.
 
 
-Frustrations
+**Frustrations**
 
 Missing out on early access rewards and getting spoilers on social media. 
 
@@ -424,6 +429,7 @@ Person(s) Responsible: Everyone; collaborative.
 
 Deadline: April 29th
 
+-----------------------
 
 **Agenda Two**
 
@@ -445,6 +451,7 @@ Person(s) Responsible: Everyone; collaborative.
 
 Deadline: April 29th
 
+-----------------------
 
 **Agenda Three**
 
@@ -578,6 +585,7 @@ Person(s) Responsible: Everyone; collaborative.
 
 Deadline: 
 
+-----------------------
 
 **Agenda Two**
 
@@ -599,6 +607,7 @@ Person(s) Responsible: Everyone; collaborative.
 
 Deadline: 
 
+-----------------------
 
 **Agenda Three**
 
