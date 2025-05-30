@@ -4,9 +4,6 @@
 <h2>Project Kick Off Meeting for Iteration 1 (Held February 17th 2025)</h2>
 
 
-<h3>Meeting Minutes Report</h3>
-
-
 **Sponsor:** Noor Alani
 
 **Group Name:** Master Roshi
