@@ -544,73 +544,72 @@ Lorien's contribution toward this iteration was sufficient. She was more proacti
 
 **Agenda Items:**
 
-**1.**	
+**1.**	Identify risks and develop a functioning risk register.
 
-**2.**	
+**2.**	Contain prior documentation to GitHub and the Gantt Chart.
 
-**3.**	
+**3.**	User acceptance report and documentation finalization.
 
 
 **Agenda One**
 
-Presenter: Chloe Cawood
+Presenter: Althea Lagudas
 
-Discussion: 
+Discussion: Identify crucial risks and develop a risk register for the group’s chosen case study. 
 
-Conclusion: 
+Conclusion: A risk register was created outlining all potential risks, impact/severity, likelihood, and mitigating action that should be taken should any of the mentioned risks occur.
 
 Action Items:
 
-•	
+•	Identify and describe potential risks.
 
-•	
+•	Outline the likelihood and impact of these risks.
 
-•	
+•	Discuss actions to mitigate the likelihood of these risks.
 
-Person(s) Responsible: Everyone; collaborative.
+Person(s) Responsible: Everyone; collectively.
 
-Deadline: 
+Deadline: May 20th 2025
 
 
 **Agenda Two**
 
-Presenter: Althea Lagudas
+Presenter: Lorien Gugich
 
-Discussion: 
+Discussion: Maintain progress by uploading all documentation to both the GitHub and Gantt Chart.
 
-Conclusion: 
+Conclusion: All necessary documentation was completed and pushed to Git, available to access at any point.
 
 Action Items:
 
-•	
+•	Ensure documentation is complete and to standard.
 
-•	
+•	Upload and push documentation to Git. 
 
-•	
+•	Confirm all documentation is readily available.
 
 Person(s) Responsible: Everyone; collaborative.
 
-Deadline: 
+Deadline: May 20th 2025
 
 
 **Agenda Three**
 
-Presenter: Lorien Gugich
+Presenter: Chloe Cawood
 
-Discussion: 
+Discussion: Complete a user acceptance test report for the provided website and ensure all documentation is completed to standard and uploaded accordingly.
 
-Conclusion: 
+Conclusion: Code was uploaded successfully and a UAT was developed. A checklist was made and confirmed all necessary documentation was readily available for final submission.
 
 Action Items:
 
-•	
+•	Upload the provided code to host a website.
 
-•	
+•	Develop a UAT for the provided website.
 
-•	
+•	Confirm all documentation is complete and uploaded
 
-Deadline: 
-
+Deadline: May 202th 2025
 
 Resource(s): N/A
 
@@ -618,6 +617,142 @@ Resource(s): N/A
 ---------------------------------------------------------------------------
 
 
-<h3>Risk Register</h3>
+<h2>Risk Register</h2>
 
 
+*ID / Date Raised / Risk Description / Likelihood of the Risk Occuring / Impact if the Risk Occurs / Severity Rating / Owner / Mitigating Action / Status*
+
+
+**1** / 13-05-2025 / Not meeting the agreed(forecast) Subscription Target within the first 3 months of product launch / Medium / High / High / Lorien Gugich / Adequately advertising the product and service across relevant social media, other media and analog channels / Open
+
+
+**2** / 13-05-2025 / Design of the website is inadequate – Confusing to use for first time users and does not highlight advertised functions / Medium / High / Medium / Althea Lagudas / Conduct thorough user testing/cognitive walkthroughs throughout the design process to ensure that the design is easy to understand and meets user needs / Open
+
+
+**3** / 13-05-2025 / Underestimating the needed resources for the project resulting in going over budget / Low / Medium / Medium / Project Sponsor(Noor) / Track spending once a week to ensure we are within budget. Have a budget buffer (10% - 15%) for unexpected costs / Open
+
+
+**4** / 13-05-2025 / Schedule delay in task completion due to task underestimation and team member unavailability (e.g. sickness) / Low / Medium / Low / Althea Lagudas / Implement buffer time for high-risk tasks and improve task estimation through research and planning. / Open
+
+
+**5** / 13-05-2025 / Software is not able to function properly on different platforms or devices. / Medium / Medium / Medium / Chloe Cawood / Conduct early testing on targeted platforms and use cross platform frameworks / Open
+
+
+**6** / 13-05-2025 / Subscription system may malfunction, causing incorrect charges, failed activations, or access issues / Medium / High / High / Chloe Cawood / Thoroughly test subscription system, monitor it regularly and set up customer support channels / Open
+
+
+---------------------------------------------------------------------------
+
+
+<h2>User Acceptance Testing</h2>
+
+
+**When:** 27/05/2025
+
+**Who:** Althea Lagudas
+
+**Application:** TimesUp
+
+
+*ID / Scenario Title / Status / Scenario / Remarks*
+
+
+**1** / Viewing Home Screen / Failed / When the user first enters the website, they should be immediately greeted with the home page of the TimesUp website. / The website link correctly loads the home page, showcasing our products and other tabs. However, the paragraphs on the home screen do not make sense and may confuse users.
+
+
+**2** / Testing Company's Social Media Links / Failed / Given that the user wants to stay updated on the company's current activities, the home screen provides links to the company's various social media platforms. / When any of the social media icons on the side it does not send the user to the given social media page.
+
+
+**3** / Viewing User Profile / Failed / Given the user clicks on the profile icon, it will immediately show the user's profile and their details. / When the icon is clicked, it does not show the user's profile and reloads the home screen.
+
+
+**4** / View User's Cart / Failed / Given the user clicks the cart icon, it sends the user to the website cart interface, showing what is currently in their cart. / When the icon is clicked, it does not display the website cart interface and just reloads the home screen.
+
+
+**5** / Using the Search Function / Failed / Given the user clicks on the search icon, it allows the user to search for exactly what they are looking for. / When the search icon is selected it does not allow the user to enter what they are spicifically looking for. It just reloads the home screen.
+
+
+**6** / View Watch Features / Failed / Given the user scrolls down on the home page, they will be able to view the features that out products have. / The user is able to view the different features of the watch but is not able to read more about them, as it sends the user to the starting point of the website. The brief explanation of the feature would not make sense to a user, as it is Latin and just a placeholder.
+
+
+**7** / Viewing Testimonial / Failed / Given the user scrolls down further on the home page, they will be able to view people's testimonials of our product. / The testimonials are in Latin, which will cause confusion to our English audience, as other text on the website, like titles, is in English.
+
+
+**8** / Viewing Available Products / Failed / Given the user clicks on the 'Watches' tab, it will send them to the products page that shows our products. / When clicked, the page displays our latest watches but does not allow the user to view all that is available through clicking 'View All.'
+
+
+**9** / Viewing a Spicific Product / Failed / Given the user has decided what product they want to view, when clicked, it will send them to a page that shows the product and its details. / The user is not able to view the product, its details, and an option to purchase it. It only sends them to the 'Product" page.
+
+
+**10** / Viewing About Us Page / Failed / Give the user the 'About Us' tab it will send them to the About Us page, giving them details about the business. / When clicked, the page does display the About Us page, but the brief description does not make sense, which will cause confusion and possibly distrust towards the business. The 'Read More' button is also not functional and does not allow the user to read more about the company.
+
+
+**11** / Viewing the Contact Us Page / Pass / Given the user clicks on the "Contact Us' tab, it sends them to the contact page, which gives them the option to enter their contact details and message the company.  / When the tab is clicked, it immediately displays the contact us page, which allows the user to input their full name, email, phone number, and message they want to send to the business. It also notifies the user if the email is not entered properly (request there is an @ sign in the email).
+
+
+**12** / Sending a Message to the Company / Failed / Given the user has filled in their contact information correctly, they will be able to send a message to the company. / It does not confirm that the message has been sent to the company, which can make a user unsure if their message was successfully sent.
+
+
+**13** / Viewing the Orders Page / Failed / Given the user clicks the 'Orders' tab, it sends them to the orders page, which will display any orders that the user made. / When the tab is clicked, it displays that the user already placed an order in the past, which would cause the user to panic, thinking their debit/credit card information was stolen. The prices of the watches are incorrect and do not match what is shown on other parts of the website. The total cost is also incorrect.
+
+
+**14** / Viewing Tracking Order / Failed / Given the user places an order, it allows them the option to track where their order is located. / When 'Track Shipment' is clicked, it does not allow the user to view where their order is located at its current time. 
+
+
+**15** / Viewing Order Summery / Failed / Given the user places an order, it shows the user the order summary, correctly showing exactly what is being charged. / The subtotal shown is incorrect given the items that have been purchased. The total cost that was calculated is also incorrect. 
+
+
+**16** / Buy an Item again / Failed / Given the user has already purchased an item, the website gives them the option to purchase the same product again. / The 'Buy it Again' function does not work properly, as the screen stays on the orders page. 
+
+
+**17** / Request to Return a Product / Failed / Given the user has purchased an item, it gives them the option to return the product.  / The 'Request to Return' function does not work properly, as the screen stays on the orders page.
+
+
+**18** / Viewing the Website Footer - About Text / Failed / Given the user scrolls down to the bottom of the website, it will correctly show about information. / There is placeholder text in the 'About' section, which will confuse users.
+
+
+**19** / Viewing the Website Footer - Testing Socail Media / Failed / Given the user scrolls down to the bottom of the website, it will show social media icons that send the user to the company's given social media page. /  When any of the social media icons are clicked, they do not send the user to the company's social media page.
+
+
+**20** / Viewing Reach at information / Failed / Given the user scrolls down to the bottom of the website, it will display ways a user can reach out to the company. / The 'Reach at' information is incorrect and must be corrected before release.
+
+
+**21** / Subscribing to the company / Failed / Given the user scrolls down to the bottom of the website, it gives the user the option to subscribe to the website and company. / The user is able to input their email to subscribe, but the website does not notify them if they have subscribed successfully.
+
+
+---------------------------------------------------------------------------
+
+
+<h2>Iteration 3 Progress Report</h3>
+
+
+**Chloe Cawood**
+
+Chloe struggled to begin the tasks required of her to begin with, however, after communication with her teammates, was able to develop a steady footing and was able to complete what was required of her without any further issues. She appreciates the support she has been given, and is doing further research into Git and GitHub in order to offer more to the team. She is happy with her progress thus far and is eager to improve on her skills moving forwards. 
+
+
+**Althea Lagudas**
+
+Althea maintained consistent communication throughout this iteration while working on the risk register. She continued to engage with her team digitally, asking whether the risks she identified were agreed upon by everyone or if any changes were needed. She also checked to ensure that everyone agreed with the rankings of likelihood, impact, and severity for each risk.
+Moving forward, Althea should continue updating her personal branch within the GitHub repository with her completed documents. This will help ensure her team members are aware of what has been completed and what still needs to be done.
+
+
+**Lorien Gugich**
+
+Lorien Gugich has been updating the project wiki file as needed when new documentation comes in. This iteration she has been working on the assigned tasks and milestones and making sure the information is correct and in the right format for final hand in. This is ongoing.
+Lorien reached out to her teammates about getting together before the final project is handed in, so they can organise their files tidily and commit them to the finalized GitHub branch. She looks forward to this.
+
+
+---------------------------------------------------------------------------
+
+
+<h2>References</h2>
+
+
+**Stakeholder Register, Risk Register Template**
+
+(n.d.) *PM template*. Excelonist. http://www.Excelonist.com.
+
+
+End Of ReadMe
+---------------------
